@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.daw.cicd</groupId>
-    <artifactId>daw-ci-cd-api-003</artifactId>
+    <artifactId>daw-ci-cd-api-001</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
