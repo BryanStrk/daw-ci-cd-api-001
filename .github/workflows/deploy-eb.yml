@@ -22,7 +22,7 @@ jobs:
           java-version: '17'
 
       # Compilar el proyecto (ajusta si usas Gradle)
-      - name: Compilar proyecto con Maven
+      - name: Compilar
         run: mvn clean package -DskipTests
 
       # Configurar credenciales de AWS
